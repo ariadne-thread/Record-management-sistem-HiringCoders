@@ -2,7 +2,7 @@
 
 Creation of an e-commerce system for product inventory and customer data:
 
-/Deliverables:
+Deliverables:
 
 * Customer, address and product data must be properly structured
 * Data on localstorage
