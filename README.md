@@ -8,4 +8,4 @@ Deliverables:
 * Data on localstorage
 * Source code on github with README file detailing programming functionality
 
-URL: https://ariadnethread-record-management-sistem-hc.netlify.app/
+URL: https://ariadnethread-record-management-sistem-hc.netlify.app
